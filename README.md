@@ -1,46 +1,161 @@
-<img src="./aman.gif" alt="javascript" width="100%" height="480px"/>
-      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+<h2 align="center"></h2>
+    <img src="./mayank.gif"/>
+    <br/><br/>
+    <div align="center">
+    <a href="https://www.linkedin.com/in/aditya-raj-ba4a74236/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter- black?style=flat&logo=twitter&logoColor=939B62&labelColor=black">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://github.com/adityagithubraj">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+    <br/>
+    <p>
+      <span>
+   <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px"
+    alt="Git" /> 
+    <br>
+      </span>
+      <span>
+    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=07-Mayankraj&label=Profile%20views&color=939B62&style=flat" alt="Aditya" />
+      </span>
+      <br>
+    </p>
+    
+
+    
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
-     
-      
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amanmandal-M&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
-      
-   <h3 align="center">An analytical and detail-oriented aspiring
-Backend Developer. Capable of
-writing production-ready code using
-NodeJs. Passionate about coding
-and intensely interested in working in a
-product-based company.
-</h3>
-      
-   
-      
-   <p align="center" color:"red">
-     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Aman Kumar 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
- 
- 
+
+<br />
+
+<!-- deivder -->
+<h4 align="center">
+<br />
+<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
+width="30px">&nbsp; Mayank raj </h4>
+<img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
+
+<br /> 
+<br />
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+
+- 👨‍💻 some of my projects are available at : [MayankRaj.com](https://github.com/adityagithubraj)
+
+
+- 💬 Ask me about **Node Backend,Html,Css,Java Script**
+
+- 📫 How to reach me **adityaraj9843@gmail.com**
+
+- 📄 Know about my experiences
+
+- 📄  My Resume :   [Aditya_Raj_Resume]()
+<br /> <br />
+<br /> <br />
+
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
+
+
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<br/>
+<p >
+
+<img  src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="json" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+<br/>
+
+</p>
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
+</p>
+
+
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
+
+
+  <br />
+<p align="center">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>Github : 
+        stats:</b></i>
+  </p>
+  <br /> 
+  
+  
+
+
 <img align="right" width=200px height=250px alt="side_sticker"
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <br /> 
   
   <p align="">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanmandal-M&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityagithubraj&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br /><br />
   </p>
-      
- 
+
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
+  <br />
 
   
   <p>
-    <a href="https://github.com/Amanmandal-M"><span>
+    <a href="https://github.com/adityagithubraj"><span>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmandal-M&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagithubraj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
           <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=adityagithubraj&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
       </span></a>
   </p>
@@ -54,106 +169,22 @@ product-based company.
 <br />
 <br />
 
- 
-</br>
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
 
-  
-  <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
-      
-   ## 🙋‍♂️ About Me
-      
-   - 🔭 I’m currently pursuing Full Stack Web Development
-      
-   - 🌱 I’m currently learning at Masai
-      
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1lyYfuQk3gqFDxPVYotKnOvk06lADgI8h/view?usp=share_link" target="_blank" >Resume</a>
-      
-      - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank"  >Portfolio</a>
-      
-      - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & DSA*
-      
-      - 📫 How to reach me **amanmandal644@gmail.com**
-      
-      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
-      
-      
-      
-      <h2 align="center">📱 Connect with me</h2>
-      <br />
-     <div align="center" >
-      
-     <a href="https://www.linkedin.com/in/aman-kumar-657080101/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
-      
-      <a href="https://Amanmandal-M.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
-     
-     </div>
-      
-      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-    
-     
-      
-      
-      <h2 align="center">🚀 Languages and Tools:</h2>
-      <br/>
-      <div align="center">
-       
-       <div align="center"><h3 align="center">Frontend</h3>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-      <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-      <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-      <img src="https://img.shields.io/badge/DOM-007FFF?style=for-the-badge&logo=DOM&logoColor=white"  align="center" alt="material-ui"/>
-      <br/>
-      <br/>
-        <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
- 
-      </div>
-       <br/>
-        <div align="center"><h3 align="center">Backend</h3> 
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-      <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-       </div>
-        
-      
-        <div align="center"><h3 align="center">Tools</h3> 
-         <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-      <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-      <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-         <br/>
-      <br/>
-         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-       </div>
-      </div>
-       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-      <br/>
-       <br/>
-      <br/>
-      <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-      
-      <br />
-      <br />
-      <br/>
-      
-      
-      
-      <br/>
-      
-      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-    
+<br />
+
+<!-- deivder -->
+<br />
   
   <p align="center">
-    <a href="https://github.com/Amanmandal-M"><span>
+    <a href="https://github.com/adityagithubraj"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityagithubraj&theme=github_dark" width="100%" />
       </span></a>
   </p>
   
+  
+<br />
+
