@@ -20,7 +20,7 @@
     <br>
       </span>
       <span>
-    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=07-Mayankraj&label=Profile%20views&color=939B62&style=flat" alt="Aditya" />
+    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=07-adityagithubraj&label=Profile%20views&color=939B62&style=flat" alt="Aditya" />
       </span>
       <br>
     </p>
@@ -37,7 +37,7 @@
 <h4 align="center">
 <br />
 <img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
-width="30px">&nbsp; Mayank raj </h4>
+width="30px">&nbsp; Aditya raj </h4>
 <img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
 
 <br /> 
@@ -46,7 +46,7 @@ width="30px">&nbsp; Mayank raj </h4>
 - 🌱 I’m currently learning **Full Stack Development**
 
 
-- 👨‍💻 some of my projects are available at : [MayankRaj.com](https://github.com/adityagithubraj)
+- 👨‍💻 some of my projects are available at : [AdityaRaj.com](https://github.com/adityagithubraj)
 
 
 - 💬 Ask me about **Node Backend,Html,Css,Java Script**
