@@ -1,15 +1,15 @@
 <h2 align="center"></h2>
-    <img src="./mayank.gif"/>
+    <img src=".gif"/>
     <br/><br/>
     <div align="center">
     <a href="https://www.linkedin.com/in/aditya-raj-ba4a74236/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter- black?style=flat&logo=twitter&logoColor=939B62&labelColor=black">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twittr- black?style=flat&logo=twitter&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://github.com/adityagithubraj">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
+      <img alt="My Personal Website" src="https://adityagithubraj.github.io/">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
     <br/>
@@ -55,7 +55,7 @@ width="30px">&nbsp; Aditya raj </h4>
 
 - 📄 Know about my experiences
 
-- 📄  My Resume :   [Aditya_Raj_Resume]()
+- 📄  My Resume :   [Aditya_Raj_Resume](https://drive.google.com/file/d/1wwPg7ctrAmqe_kqX6ugC1EdVVn4QFjQx/view?usp=share_link)
 <br /> <br />
 <br /> <br />
 
