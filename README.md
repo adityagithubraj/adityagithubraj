@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at **[Portfoliyo](https://adityagithubraj.github.io/)**
+- 👨‍💻 All of my projects are available at **[portfolio](https://adityagithubraj.github.io/)**
 
 - 💬 Ask me about **Nodejs express JavaScript**
 
